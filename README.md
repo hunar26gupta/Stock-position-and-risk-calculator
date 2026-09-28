@@ -89,7 +89,7 @@ To verify the calculations, validation logic, and file storage functions:
 
 ---
 
-## Terminal Execution Output (Simulated)
+## Terminal Execution Output 
 
 ```text
 ===== STOCK POSITION & RISK CALCULATOR =====
